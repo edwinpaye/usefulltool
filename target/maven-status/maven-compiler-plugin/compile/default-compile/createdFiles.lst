@@ -1,0 +1,8 @@
+com\tool\app\CopyCommand.class
+com\tool\app\UsefullToolApplication.class
+com\tool\app\UsefullToolCommand.class
+com\tool\app\Base64Command.class
+com\tool\app\HashCommand.class
+com\tool\app\ScafoldCommand.class
+com\tool\app\CatCommand.class
+com\tool\app\PasteCommand.class
